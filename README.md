@@ -1,6 +1,6 @@
 # DIMP
 
-Self-supervised Graph Neural Networks via **D**iverse and **I**nteractive **M**essage **P**assing.
+[Self-supervised Graph Neural Networks via **D**iverse and **I**nteractive **M**essage **P**assing.](http://yangliang.github.io/pdf/aaai22.pdf)
 
 
 ## Dependencies
